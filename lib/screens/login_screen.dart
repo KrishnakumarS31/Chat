@@ -44,7 +44,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         const Text(
-                          'Groupie',
+                          'Chat',
                           style: TextStyle(
                             fontSize: 40,
                             fontWeight: FontWeight.bold,

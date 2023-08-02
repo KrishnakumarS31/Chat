@@ -43,7 +43,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         const Text(
-                          'Groupie',
+                          'Chat',
                           style: TextStyle(
                             fontSize: 40,
                             fontWeight: FontWeight.bold,
